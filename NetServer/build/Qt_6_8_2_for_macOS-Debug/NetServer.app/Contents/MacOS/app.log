@@ -1,0 +1,5 @@
+[2025-03-18 18:46:23.108] [./../../server2/tcpnet.h:25] Server Listening on: "127.0.0.1" : 1234
+[2025-03-18 18:46:23.109] [../../core.cpp:27] Initialize TCPNetWork Success!
+[2025-03-18 18:46:23.115] [../../core.cpp:30] Database Connect Success!
+[2025-03-18 18:46:23.115] [../../core.cpp:44] File opened successfully!
+[2025-03-18 18:46:23.115] [../../main.cpp:35] Server is running

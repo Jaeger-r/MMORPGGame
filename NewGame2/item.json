@@ -1,0 +1,99 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "长剑",
+            "type": "Weapon",
+            "icon": "icons/weapon/sword.bmp",
+            "attack": 50,
+            "durability": 100,
+            "levelRequirement": 5,
+            "rarity": "Common",
+            "description": "一把普通的铁剑，适合新手使用。"
+        },
+        {
+            "id": 2,
+            "name": "巨剑",
+            "type": "Weapon",
+            "icon": "icons/weapon/greatsword.png",
+            "attack": 120,
+            "durability": 80,
+            "levelRequirement": 10,
+            "rarity": "Rare",
+            "description": "巨大的剑，能够造成毁灭性的打击。"
+        },
+        {
+            "id": 3,
+            "name": "骑士铠甲",
+            "type": "Armor",
+            "icon": "icons/armor/knight_armor.png",
+            "defense": 40,
+            "durability": 150,
+            "levelRequirement": 7,
+            "rarity": "Uncommon",
+            "description": "坚固的骑士铠甲，可以抵御大部分攻击。"
+        },
+        {
+            "id": 4,
+            "name": "法师长袍",
+            "type": "Armor",
+            "icon": "icons/armor/mage_robe.bmp",
+            "defense": 15,
+            "magicResistance": 30,
+            "durability": 60,
+            "levelRequirement": 5,
+            "rarity": "Common",
+            "description": "魔法师的战袍，增强法术抗性。"
+        },
+        {
+            "id": 5,
+            "name": "治疗药水",
+            "type": "Consumable",
+            "icon": "icons/potion/heal.png",
+            "heal": 50,
+            "rarity": "Common",
+            "description": "恢复 50 点生命值的药水。"
+        },
+        {
+            "id": 6,
+            "name": "法力药水",
+            "type": "Consumable",
+            "icon": "icons/potion/mana.png",
+            "manaRestore": 40,
+            "rarity": "Common",
+            "description": "恢复 40 点法力值的药水。"
+        },
+        {
+            "id": 7,
+            "name": "藏宝图",
+            "type": "QuestItem",
+            "icon": "icons/quest/treasure_map.png",
+            "questId": 101,
+            "description": "一张标记着藏宝地点的神秘地图。"
+        },
+        {
+            "id": 8,
+            "name": "黑龙鳞片",
+            "type": "QuestItem",
+            "icon": "icons/quest/dragon_scale.png",
+            "questId": 202,
+            "description": "传说中黑龙的鳞片，可能用于某个重要任务。"
+        },
+        {
+            "id": 9,
+            "name": "金币",
+            "type": "Misc",
+            "icon": "icons/misc/coin.png",
+            "amount": 100,
+            "description": "游戏中的货币，可以用来购买物品。"
+        },
+        {
+            "id": 10,
+            "name": "宝石",
+            "type": "Misc",
+            "icon": "icons/misc/gem.png",
+            "rarity": "Rare",
+            "description": "闪闪发光的宝石，极具价值。"
+        }
+    ]
+}
